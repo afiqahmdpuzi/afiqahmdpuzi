@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello & a good day to you! 🙇‍♀️
+I'm Afiqah, a data analyst trainee from Malaysia. 
+
+A little introduction of me 🙇🏻‍♀️
+
+
 
 <!--
 **afiqahmdpuzi/afiqahmdpuzi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
