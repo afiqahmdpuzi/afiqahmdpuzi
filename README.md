@@ -1,4 +1,8 @@
 ### Hello & a good day to you! 🙇‍♀️
+
+### Hi and welcome to my page! 
+
+I am Afiqah, a data analyst based in Kuala Lumpur, Malaysia
 I'm Afiqah, a data analyst trainee from Malaysia. 
 
 A little introduction of me 🙇🏻‍♀️
